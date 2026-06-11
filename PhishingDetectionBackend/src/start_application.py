@@ -30,4 +30,4 @@ for route, service in ROUTES.items():
     StartApplication.add_route(PREFIX + route, service)
 
 if __name__ == '__main__':
-    app.run(host=HOST, port=PORT, reload=True)
+    StartApplication.run(host=HOST, port=PORT, reload=True)
