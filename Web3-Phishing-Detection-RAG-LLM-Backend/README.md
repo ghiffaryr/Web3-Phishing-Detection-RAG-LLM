@@ -10,7 +10,7 @@ docker-compose up --build
 4. API can be hit based on the host and port you set on .env file and open postman collection json for API route references
 
 ## Example
-1. You can use the last model i trained at [ghiffaryr/phising-detection-peft-q_model-google_flan-t5-base_dataset-phisingpot_csdmc_train-0.8_seed-0](ghiffaryr/phising-detection-peft-q_model-google_flan-t5-base_dataset-phisingpot_csdmc_train-0.8_seed-0)
+1. You can use the last model i trained at [ghiffaryr/phishing-detection-peft-q_model-google_flan-t5-base_dataset-phishingpot_csdmc_train-0.8_seed-0](ghiffaryr/phishing-detection-peft-q_model-google_flan-t5-base_dataset-phishingpot_csdmc_train-0.8_seed-0)
 2. Or may use RAG
    
 To upload the file into our system

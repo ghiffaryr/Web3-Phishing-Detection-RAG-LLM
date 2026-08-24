@@ -1,5 +1,5 @@
 {
-  "name": "phishing-detection-frontend",
+  "name": "web3-phishing-detection-rag-llm-frontend",
   "version": "0.1.0",
   "private": true,
   "scripts": {

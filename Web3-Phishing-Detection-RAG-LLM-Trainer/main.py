@@ -28,7 +28,7 @@ if __name__ == "__main__":
     
     # Define configuration
     seed = 0
-    project_name = "phishing-detection"
+    project_name = "phishing-detection-rag-llm"
     model_name = "google/flan-t5-base"
     dataset_name = "phishingpot_csdmc"
     train_size = 0.8
